@@ -53,6 +53,10 @@ streamlit run streamlit_app.py
 - `streamlit_app.py`: Main application file.
 - `requirements.txt`: List of required packages.
 
+## Deployment
+
+- You can check the functionality here: https://summarizeurl.streamlit.app/
+
 ## Contributing
 
 1. Fork the repository.
